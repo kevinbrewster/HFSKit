@@ -8,7 +8,7 @@ HFS was the standard file system on Macs from 1985 until 1998, when HFS+ was rel
 
 __NOTE:__
 
-__If you are interested in an app with a GUI to extract HFS volumes, check out [HFS.app](https://github.com/kevinbrewster/HFS)__
+__If you are interested in a GUI-based app to extract HFS volumes, check out [HFS.app](https://github.com/kevinbrewster/HFS)__
 
 __If you are interested a cross platform python HFS library/CLI, check out [machfs](https://github.com/elliotnunn/machfs)__
 
