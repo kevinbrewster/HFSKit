@@ -7,7 +7,9 @@ Generally, these volumes will be in the form of ISO files, but HFSKit should sup
 HFS was the standard file system on Macs from 1985 until 1998, when HFS+ was released. "With the introduction of Mac OS X 10.6, Apple dropped support for formatting or writing HFS disks and images, which remain supported as read-only volumes. Starting with macOS 10.15, HFS disks can no longer be read."
 
 __NOTE:__
+
 __If you are interested in an app with a GUI to extract HFS volumes, check out [HFS.app](https://github.com/kevinbrewster/HFS)__
+
 __If you are interested a cross platform python HFS library/CLI, check out [machfs](https://github.com/elliotnunn/machfs)__
 
 
