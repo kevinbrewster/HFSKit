@@ -86,7 +86,7 @@ if let file = volume.file(at: "path:to:some:icon"),
 ```
 
 
-### Recurively read entire contents of a volume
+### Recursively read entire contents of a volume
 
 ```swift
 func printContents(_ directory: Directory, _ indent: String = "") {
